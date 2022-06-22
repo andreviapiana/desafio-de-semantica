@@ -1,4 +1,4 @@
-# Desafio 02: Corrigindo Bugs - Rocketseat Explorer :rocket:
+# Desafio 03: Semântica e Acessibilidade - Rocketseat Explorer :rocket:
 
 Esse é o terceiro desafio disponível no curso, no Stage 02 - Conhecendo novos conceitos de HTML e CSS.
 
