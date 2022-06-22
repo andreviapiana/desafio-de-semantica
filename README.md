@@ -10,6 +10,6 @@ O objetivo final foi corrigir a semântica, deixando-a muito mais legível e fá
 
 O carregamento dos arquivos foi todo feito via linha de comando utilizando o Git Bash.
 
-[O resultado final pode ser visto aqui](https://andreviapiana.github.io/desafio-de-acessibilidade/)
+[O resultado final pode ser visto aqui](https://andreviapiana.github.io/desafio-de-semantica/)
 
 [O arquivo original pode ser visto aqui](https://explorer-stage-02-02.vercel.app/)
